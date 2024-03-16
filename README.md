@@ -22,11 +22,10 @@ To visit this website
 
 ## 🚀 About Me
 
-I'm a front-end web developer.
+I'm a full-stack developer.
 
 ## 🔗 Links
 
-![Portfolio](https://namitkumarsingh97.github.io/csb-zcwdu/)
 ![Github Profile](https://github.com/namitkumarsingh97)
 
 ## 🛠 Skills
